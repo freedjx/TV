@@ -1,0 +1,37 @@
+#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+#EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.v1.mk/logo/民视新闻台.png" group-title="港澳台",民视新闻台
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1,tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://epg.v1.mk/logo/台视新闻台.png" group-title="港澳台",台视新闻台
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.v1.mk/logo/民视新闻台.png" group-title="港澳台",民视新闻台
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1,tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://epg.v1.mk/logo/东森超视.png" group-title="港澳台",东森超视
+http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+#EXTINF:-1,tvg-id="东森美洲" tvg-name="东森美洲" tvg-logo="https://epg.v1.mk/logo/东森美洲.png" group-title="港澳台",东森美洲
+http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
+#EXTINF:-1,tvg-id="华语电视" tvg-name="华语电视" tvg-logo="https://epg.v1.mk/logo/华语电视.png" group-title="其他",华语电视
+http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
+#EXTINF:-1,tvg-id="TVBS亚洲" tvg-name="TVBS亚洲" tvg-logo="https://epg.v1.mk/logo/TVBS亚洲.png" group-title="港澳台",TVBS亚洲
+http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1,tvg-id="TVBS亚洲" tvg-name="TVBS亚洲" tvg-logo="https://epg.v1.mk/logo/TVBS亚洲.png" group-title="港澳台",TVBS亚洲
+http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+#EXTINF:-1,tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://epg.v1.mk/logo/台视新闻台.png" group-title="港澳台",台视新闻台
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1,tvg-id="华语电视" tvg-name="华语电视" tvg-logo="https://epg.v1.mk/logo/华语电视.png" group-title="其他",华语电视
+http://38.64.72.148:80/hls/modn/list/4003/chunklist1.m3u8
+#EXTINF:-1,tvg-id="TVBS亚洲台" tvg-name="TVBS亚洲台" tvg-logo="https://epg.v1.mk/logo/TVBS亚洲台.png" group-title="港澳台",TVBS亚洲台
+http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.v1.mk/logo/TVBS新闻台.png" group-title="港澳台",TVBS新闻台
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.v1.mk/logo/TVBS新闻台.png" group-title="港澳台",TVBS新闻台
+http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1,tvg-id="华语电视" tvg-name="华语电视" tvg-logo="https://epg.v1.mk/logo/华语电视.png" group-title="其他",华语电视
+http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
+#EXTINF:-1,tvg-id="华语电视" tvg-name="华语电视" tvg-logo="https://epg.v1.mk/logo/华语电视.png" group-title="其他",华语电视
+http://38.64.72.148:80/hls/modn/list/4002/chunklist1.m3u8
+#EXTINF:-1,tvg-id="华语电视" tvg-name="华语电视" tvg-logo="https://epg.v1.mk/logo/华语电视.png" group-title="其他",华语电视
+http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
+#EXTINF:-1,tvg-id="华语电视" tvg-name="华语电视" tvg-logo="https://epg.v1.mk/logo/华语电视.png" group-title="其他",华语电视
+http://38.64.72.148:80/hls/modn/list/4001/chunklist1.m3u8
+#EXTINF:-1,tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://epg.v1.mk/logo/东森新闻.png" group-title="港澳台",东森新闻
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
